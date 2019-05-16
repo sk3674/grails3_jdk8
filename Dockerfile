@@ -3,7 +3,7 @@ MAINTAINER Kyle Skiven <kskiven@amientertainment.com>
 
 # Set customizable env vars defaults.
 # Set Grails version (default: 3.2.8; min: 3.0.0; max: 3.2.8).
-ENV GRAILS_VERSION 3.3.0
+ENV GRAILS_VERSION 3.3.9
 
 
 # Install Grails
